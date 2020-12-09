@@ -1,2 +1,3 @@
 this is my first exercise
 Trying to append the txt file
+This is line 3
